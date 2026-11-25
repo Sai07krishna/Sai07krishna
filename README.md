@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @Sai07krishna
-- 👀 I’m interested in python ...
-- 🌱 I’m currently learning java ...
+👋 Hi, I'm **@Sai07krishna**!
 
+🔐 Cybersecurity enthusiast exploring the world of ethical hacking and digital forensics.
+
+🐍 Interested in Python, programming and building useful projects.
+
+🌱 Currently learning Network Security, Penetration Testing, Linux and Web Application Security.
+
+💻 Exploring vulnerabilities, analysing networks and learning how to make systems more secure.
+
+🚀 Always curious, always experimenting, always learning.
+
+📌 **Tech Interests:** Python | Kali Linux | Wireshark | Burp Suite | Nmap | Git & GitHub
 
 <!---
-Sai07krishna/Sai07krishna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Sai07krishna/Sai07krishna is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 --->
